@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bfCar1.png" width="787" height="860">
+  <SubTexture name="BFNOTEUP0000_copy_150x178.png" x="0" y="0"  width="147" height="178" frameX="-2" frameY="-0" frameWidth="150" frameHeight="178"/>
+  <SubTexture name="BFNOTEUP0001_copy_150x178.png" x="0" y="178"  width="147" height="178" frameX="-2" frameY="-0" frameWidth="150" frameHeight="178"/>
+  <SubTexture name="BFNOTEUP0002_copy_150x178.png" x="0" y="356"  width="150" height="176" frameX="-0" frameY="-2" frameWidth="150" frameHeight="178"/>
+  <SubTexture name="BFidledance0006_copy_164x164.png" x="147" y="0"  width="164" height="164" frameX="-0" frameY="-0" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFidledance0007_copy_164x164.png" x="147" y="164"  width="164" height="164" frameX="-0" frameY="-0" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFidledance0008_copy_164x164.png" x="0" y="532"  width="163" height="164" frameX="-1" frameY="-0" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFidledance0009_copy_164x164.png" x="150" y="328"  width="163" height="164" frameX="-1" frameY="-0" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFidledance0010_copy_164x164.png" x="0" y="696"  width="163" height="164" frameX="-1" frameY="-0" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFidledance0011_copy_164x164.png" x="311" y="0"  width="163" height="164" frameX="-1" frameY="-0" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFNOTERIGHT0002_copy_163x162.png" x="311" y="164" width="162" height="163" rotated="true"  frameX="-0" frameY="-0" frameWidth="163" frameHeight="162"/>
+  <SubTexture name="BFNOTERIGHT0000_copy_163x162.png" x="163" y="492" width="161" height="163" rotated="true"  frameX="-0" frameY="-1" frameWidth="163" frameHeight="162"/>
+  <SubTexture name="BFNOTERIGHT0001_copy_163x162.png" x="313" y="327" width="161" height="163" rotated="true"  frameX="-0" frameY="-1" frameWidth="163" frameHeight="162"/>
+  <SubTexture name="BFidledance0002_copy_164x164.png" x="473" y="164" width="157" height="163" rotated="true"  frameX="-0" frameY="-7" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFidledance0003_copy_164x164.png" x="474" y="0" width="157" height="163" rotated="true"  frameX="-0" frameY="-7" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFidledance0000_copy_164x164.png" x="163" y="655" width="156" height="163" rotated="true"  frameX="-0" frameY="-8" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFidledance0001_copy_164x164.png" x="319" y="655" width="156" height="163" rotated="true"  frameX="-0" frameY="-8" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFidledance0004_copy_164x164.png" x="324" y="490" width="159" height="162" rotated="true"  frameX="-1" frameY="-5" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFidledance0005_copy_164x164.png" x="475" y="327" width="159" height="162" rotated="true"  frameX="-1" frameY="-5" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFNOTELEFT0000_copy_154x162.png" x="630" y="163"  width="153" height="162" frameX="-0" frameY="-0" frameWidth="154" frameHeight="162"/>
+  <SubTexture name="BFNOTELEFT0001_copy_154x162.png" x="634" y="0"  width="153" height="162" frameX="-0" frameY="-0" frameWidth="154" frameHeight="162"/>
+  <SubTexture name="BFNOTELEFT0002_copy_154x162.png" x="475" y="652"  width="150" height="161" frameX="-4" frameY="-1" frameWidth="154" frameHeight="162"/>
+  <SubTexture name="BFNOTEDOWN0000_copy_150x144.png" x="483" y="489" width="142" height="150" rotated="true"  frameX="-0" frameY="-2" frameWidth="150" frameHeight="144"/>
+  <SubTexture name="BFNOTEDOWN0001_copy_150x144.png" x="634" y="325"  width="150" height="142" frameX="-0" frameY="-2" frameWidth="150" frameHeight="144"/>
+  <SubTexture name="BFNOTEDOWN0002_copy_150x144.png" x="634" y="467"  width="149" height="144" frameX="-0" frameY="-0" frameWidth="150" frameHeight="144"/>
+  <SubTexture name="BFidledance0012_copy_164x164.png" x="0" y="532"  width="163" height="164" frameX="-1" frameY="-0" frameWidth="164" frameHeight="164"/>
+  <SubTexture name="BFidledance0013_copy_164x164.png" x="150" y="328"  width="163" height="164" frameX="-1" frameY="-0" frameWidth="164" frameHeight="164"/>
+</TextureAtlas>

@@ -1,0 +1,3 @@
+Value 1: Lyric
+Value 2: 0 to replace the line completely and 1 to add to it
+i.e typing one word at a time and having it add them manually.

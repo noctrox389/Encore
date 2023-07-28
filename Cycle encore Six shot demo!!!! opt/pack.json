@@ -1,0 +1,7 @@
+{
+	"name": "Cycle encore Six shot demo!!!!",
+	"description": "This is basically just a wario take on remember the alamo",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [255, 160, 0]
+}

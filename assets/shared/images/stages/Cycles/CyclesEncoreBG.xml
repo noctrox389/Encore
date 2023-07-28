@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="CyclesEncoreBG.png" width="320" height="247">
+  <SubTexture name="overlay0000_copy_320x180.png" x="0" y="0"  width="320" height="180" frameX="-0" frameY="-0" frameWidth="320" frameHeight="180"/>
+  <SubTexture name="wateranim0000_copy_320x67.png" x="0" y="180"  width="320" height="67" frameX="-0" frameY="-0" frameWidth="320" frameHeight="67"/>
+</TextureAtlas>

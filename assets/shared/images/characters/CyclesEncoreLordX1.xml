@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="CyclesEncoreLordX1.png" width="1345" height="1349">
+  <SubTexture name="XUp0000_copy_220x278.png" x="0" y="0"  width="208" height="278" frameX="-11" frameY="-0" frameWidth="220" frameHeight="278"/>
+  <SubTexture name="XUp0001_copy_220x278.png" x="0" y="278"  width="208" height="275" frameX="-12" frameY="-3" frameWidth="220" frameHeight="278"/>
+  <SubTexture name="XLeft0002_copy_256x275.png" x="0" y="553"  width="240" height="274" frameX="-8" frameY="-1" frameWidth="256" frameHeight="275"/>
+  <SubTexture name="XLeft0001_copy_256x275.png" x="0" y="827"  width="240" height="273" frameX="-8" frameY="-2" frameWidth="256" frameHeight="275"/>
+  <SubTexture name="XRight0000_copy_270x232.png" x="0" y="1100" width="230" height="249" rotated="true"  frameX="-14" frameY="-2" frameWidth="270" frameHeight="232"/>
+  <SubTexture name="XLeft0000_copy_256x275.png" x="230" y="1100" width="259" height="246" rotated="true"  frameX="-0" frameY="-16" frameWidth="256" frameHeight="275"/>
+  <SubTexture name="XDown0001_copy_246x212.png" x="489" y="1100" width="199" height="238" rotated="true"  frameX="-4" frameY="-13" frameWidth="246" frameHeight="212"/>
+  <SubTexture name="XIdle0019_copy_213x236.png" x="688" y="1100"  width="211" height="236" frameX="-2" frameY="-0" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0015_copy_213x236.png" x="899" y="1100"  width="210" height="236" frameX="-2" frameY="-0" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0016_copy_213x236.png" x="1109" y="0" width="236" height="210" rotated="true"  frameX="-2" frameY="-0" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0018_copy_213x236.png" x="1109" y="210" width="236" height="210" rotated="true"  frameX="-2" frameY="-0" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0020_copy_213x236.png" x="1109" y="420" width="236" height="210" rotated="true"  frameX="-2" frameY="-0" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0022_copy_213x236.png" x="1109" y="630" width="236" height="210" rotated="true"  frameX="-2" frameY="-0" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XRight0001_copy_270x232.png" x="240" y="840" width="225" height="256" rotated="true"  frameX="-14" frameY="-7" frameWidth="270" frameHeight="232"/>
+  <SubTexture name="XRight0002_copy_270x232.png" x="465" y="840" width="225" height="256" rotated="true"  frameX="-14" frameY="-7" frameWidth="270" frameHeight="232"/>
+  <SubTexture name="XIdle0023_copy_213x236.png" x="1109" y="840" width="236" height="210" rotated="true"  frameX="-2" frameY="-0" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0012_copy_213x236.png" x="1109" y="1050" width="235" height="210" rotated="true"  frameX="-2" frameY="-1" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0014_copy_213x236.png" x="690" y="0" width="235" height="210" rotated="true"  frameX="-2" frameY="-1" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0000_copy_213x236.png" x="208" y="210"  width="210" height="232" frameX="-0" frameY="-4" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0002_copy_213x236.png" x="240" y="0" width="232" height="210" rotated="true"  frameX="-0" frameY="-4" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0003_copy_213x236.png" x="472" y="0"  width="211" height="230" frameX="-0" frameY="-6" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XDown0000_copy_246x212.png" x="240" y="442" width="195" height="232" rotated="true"  frameX="-12" frameY="-12" frameWidth="246" frameHeight="212"/>
+  <SubTexture name="XIdle0011_copy_213x236.png" x="418" y="230" width="230" height="211" rotated="true"  frameX="-1" frameY="-6" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0004_copy_213x236.png" x="435" y="441"  width="210" height="230" frameX="-0" frameY="-6" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0010_copy_213x236.png" x="645" y="441"  width="210" height="230" frameX="-1" frameY="-6" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0005_copy_213x236.png" x="648" y="230" width="229" height="210" rotated="true"  frameX="-0" frameY="-7" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0006_copy_213x236.png" x="877" y="210" width="229" height="210" rotated="true"  frameX="-0" frameY="-7" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0007_copy_213x236.png" x="877" y="420" width="229" height="210" rotated="true"  frameX="-0" frameY="-7" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0008_copy_213x236.png" x="855" y="630" width="228" height="210" rotated="true"  frameX="-0" frameY="-8" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0009_copy_213x236.png" x="855" y="840" width="228" height="210" rotated="true"  frameX="-0" frameY="-8" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XDown0002_copy_246x212.png" x="489" y="1100" width="199" height="238" rotated="true"  frameX="-4" frameY="-13" frameWidth="246" frameHeight="212"/>
+  <SubTexture name="XIdle0001_copy_213x236.png" x="208" y="210"  width="210" height="232" frameX="-0" frameY="-4" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0013_copy_213x236.png" x="1109" y="1050" width="235" height="210" rotated="true"  frameX="-2" frameY="-1" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0017_copy_213x236.png" x="1109" y="0" width="236" height="210" rotated="true"  frameX="-2" frameY="-0" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XIdle0021_copy_213x236.png" x="1109" y="420" width="236" height="210" rotated="true"  frameX="-2" frameY="-0" frameWidth="213" frameHeight="236"/>
+  <SubTexture name="XUp0002_copy_220x278.png" x="0" y="278"  width="208" height="275" frameX="-12" frameY="-3" frameWidth="220" frameHeight="278"/>
+</TextureAtlas>

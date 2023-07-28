@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1010,
+				864
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "XLeft"
+		},
+		{
+			"offsets": [
+				615,
+				751
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "XIdle"
+		},
+		{
+			"offsets": [
+				770,
+				550
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "XDown"
+		},
+		{
+			"offsets": [
+				713,
+				923
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "XUp"
+		},
+		{
+			"offsets": [
+				735,
+				723
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "XRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cyclesEncoreLordX1",
+	"position": [
+		860,
+		860
+	],
+	"healthicon": "lord",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-1240,
+		-1220
+	],
+	"sing_duration": 4,
+	"scale": 4
+}
